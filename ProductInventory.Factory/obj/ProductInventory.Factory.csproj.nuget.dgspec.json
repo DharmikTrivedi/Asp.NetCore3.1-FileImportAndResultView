@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\DharmikUK\\DataImport\\ProductDataImport\\ProductInventory.Factory\\ProductInventory.Factory.csproj": {}
+  },
+  "projects": {
+    "F:\\DharmikUK\\DataImport\\ProductDataImport\\ProductBusinessLayer\\ProductBusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\DharmikUK\\DataImport\\ProductDataImport\\ProductBusinessLayer\\ProductBusinessLayer.csproj",
+        "projectName": "ProductBusinessLayer",
+        "projectPath": "F:\\DharmikUK\\DataImport\\ProductDataImport\\ProductBusinessLayer\\ProductBusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Dam\\.nuget\\packages\\",
+        "outputPath": "F:\\DharmikUK\\DataImport\\ProductDataImport\\ProductBusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\DharmikUK\\DataImport\\ProductDataImport\\PropductImport.Data\\PropductImport.Data.csproj": {
+                "projectPath": "F:\\DharmikUK\\DataImport\\ProductDataImport\\PropductImport.Data\\PropductImport.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\DharmikUK\\DataImport\\ProductDataImport\\ProductInventory.Factory\\ProductInventory.Factory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\DharmikUK\\DataImport\\ProductDataImport\\ProductInventory.Factory\\ProductInventory.Factory.csproj",
+        "projectName": "ProductInventory.Factory",
+        "projectPath": "F:\\DharmikUK\\DataImport\\ProductDataImport\\ProductInventory.Factory\\ProductInventory.Factory.csproj",
+        "packagesPath": "C:\\Users\\Dam\\.nuget\\packages\\",
+        "outputPath": "F:\\DharmikUK\\DataImport\\ProductDataImport\\ProductInventory.Factory\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\DharmikUK\\DataImport\\ProductDataImport\\ProductBusinessLayer\\ProductBusinessLayer.csproj": {
+                "projectPath": "F:\\DharmikUK\\DataImport\\ProductDataImport\\ProductBusinessLayer\\ProductBusinessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\DharmikUK\\DataImport\\ProductDataImport\\PropductImport.Data\\PropductImport.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\DharmikUK\\DataImport\\ProductDataImport\\PropductImport.Data\\PropductImport.Data.csproj",
+        "projectName": "PropductImport.Data",
+        "projectPath": "F:\\DharmikUK\\DataImport\\ProductDataImport\\PropductImport.Data\\PropductImport.Data.csproj",
+        "packagesPath": "C:\\Users\\Dam\\.nuget\\packages\\",
+        "outputPath": "F:\\DharmikUK\\DataImport\\ProductDataImport\\PropductImport.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

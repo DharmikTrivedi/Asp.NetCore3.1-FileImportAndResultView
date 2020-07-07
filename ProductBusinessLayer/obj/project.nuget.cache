@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fpT4r66qsvWw9lCBxsNtmGPu5bFxdaD36gioLWPpOy7sSH5ZxzkvhS/l4uJ9sqh/xyVKcHKRCklDG6URdFEG7A==",
+  "success": true,
+  "projectFilePath": "F:\\DharmikUK\\DataImport\\ProductDataImport\\ProductBusinessLayer\\ProductBusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dam\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.5\\microsoft.aspnetcore.http.features.3.1.5.nupkg.sha512",
+    "C:\\Users\\Dam\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512",
+    "C:\\Users\\Dam\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

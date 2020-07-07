@@ -1,0 +1,8 @@
+F:\DharmikUK\DataImport\ProductDataImport\PropductImport.Data\bin\Debug\netcoreapp3.1\PropductImport.Data.deps.json
+F:\DharmikUK\DataImport\ProductDataImport\PropductImport.Data\bin\Debug\netcoreapp3.1\PropductImport.Data.dll
+F:\DharmikUK\DataImport\ProductDataImport\PropductImport.Data\bin\Debug\netcoreapp3.1\PropductImport.Data.pdb
+F:\DharmikUK\DataImport\ProductDataImport\PropductImport.Data\obj\Debug\netcoreapp3.1\PropductImport.Data.AssemblyInfoInputs.cache
+F:\DharmikUK\DataImport\ProductDataImport\PropductImport.Data\obj\Debug\netcoreapp3.1\PropductImport.Data.AssemblyInfo.cs
+F:\DharmikUK\DataImport\ProductDataImport\PropductImport.Data\obj\Debug\netcoreapp3.1\PropductImport.Data.csproj.CoreCompileInputs.cache
+F:\DharmikUK\DataImport\ProductDataImport\PropductImport.Data\obj\Debug\netcoreapp3.1\PropductImport.Data.dll
+F:\DharmikUK\DataImport\ProductDataImport\PropductImport.Data\obj\Debug\netcoreapp3.1\PropductImport.Data.pdb

@@ -1,0 +1,43 @@
+﻿@model ProductDataLayer.ViewModel.ImportedDataDetail
+
+@{ ViewBag.Title = "Result"; }
+
+<h2>
+    Imported Product Items        
+    <img src= @Model.Extension alt="Exported file image" style="width:42px;height:42px;border:0;">
+</h2>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col" style="text-align: center;">Product Code</th>
+                <th scope="col" style="text-align: center;">Store Id</th>
+                <th scope="col" style="text-align: center;">Quantity</th>
+                <th scope="col" style="text-align: center;">Amount</th>
+                <th scope="col" style="text-align: center;">Date</th>
+            </tr>
+        </thead>
+
+        @foreach (var item in Model.ProductInventories)
+        {
+            <tr>
+                <td style="text-align: center;">
+                    @Html.DisplayFor(model => item.ProductCode)
+                </td>
+                <td style="text-align: center;">
+                    @Html.DisplayFor(modelItem => item.StoreId)
+                </td>
+                <td style="text-align: right;">
+                    @Html.DisplayFor(modelItem => item.Quantity)
+                </td>
+                <td style="text-align: right;">
+                    @Html.DisplayFor(modelItem => item.Amount)
+                </td>
+                <td style="text-align: center;">
+                    @Html.DisplayFor(modelItem => item.PDate)
+                </td>
+            </tr>
+        }
+    </table>
+</div>
